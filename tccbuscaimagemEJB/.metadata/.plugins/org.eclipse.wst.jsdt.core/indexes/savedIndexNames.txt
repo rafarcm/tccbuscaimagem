@@ -1,2 +1,0 @@
-INDEX VERSION 1.4+/media/rafael/RAFAEL_HD/Rafael/Cursos/USP/TCC 1/workspaceweb/tccbuscaimagemEJB/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1396486566.index
