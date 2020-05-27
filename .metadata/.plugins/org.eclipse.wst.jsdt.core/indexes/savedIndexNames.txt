@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+L:\Backup Rafael\Documentos2\Faculdade\USP\TCC 1\workspaceweb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+842743828.index
+3104037723.index
+3255152656.index
+414568678.index
+3439226851.index
+2292487737.index

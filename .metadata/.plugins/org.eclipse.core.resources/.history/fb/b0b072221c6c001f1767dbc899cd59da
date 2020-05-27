@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<table align="center">
+			<tr>
+				<td>Imagem de busca</td>
+			</tr>
+			<tr>
+				<td><img alt="#" src="fael.JPG"></td>
+			</tr>
+		</table>
+		Filtros
+		<table align="center">
+			<tr>
+				<td><input type="checkbox"> Cor</td>
+			</tr>
+			<tr>
+				<td><input type="checkbox"> Forma</td>
+			</tr>
+			<tr>
+				<td><input type="checkbox"> Textura</td>
+			</tr>
+			<tr>
+				<td><input type="button" value="Buscar Imagens"></td>
+			</tr>
+		</table>
+	</body>
+</html>

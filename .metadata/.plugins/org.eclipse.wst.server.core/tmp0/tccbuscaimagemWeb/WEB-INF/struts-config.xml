@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN" "struts-config_1_3.dtd">
+<struts-config>
+
+	<!-- Form Beans -->
+	<form-beans>
+		
+	</form-beans>
+	
+	<!-- Global Forwards -->
+	<global-forwards>
+		<!-- <forward name="error" path="/WEB-INF/jsp/comum/mensagem.jsp"></forward> -->
+	</global-forwards>
+
+	<!-- Action Mappings -->
+	<action-mappings>
+		<action path="/buscaimagens" 
+			type="com.porto.rh.feedbackampliado.web.feedback.action.CadastraNovoFeedbackAction"
+			name="CadastraFeedbackForm">
+			<forward name="success" path="/WEB-INF/jsp/feedbackampliado.jsp" />
+			<forward name="error" path="/WEB-INF/jsp/feedbackampliado.jsp" />
+		</action>
+	</action-mappings>
+	
+	<!-- Message Resources -->
+	<message-resources parameter="" />
+
+</struts-config>
+

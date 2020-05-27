@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: tccbuscaimagem-domain.jar 
+ jai_codec.jar 
+ jai_core.jar
+
