@@ -1,9 +1,0 @@
-1275574653492	Rename type 'ImagemDTO'
-1275574667269	Rename package 'br.com.tccbuscaimagem.dto'
-1275577477514	Rename type 'CaracteristicaCorORM'
-1275577484305	Rename type 'ImagemORM'
-1275586196500	Delete element
-1275692777659	Rename package 'br.com.tccbuscaimagem.orm'
-1275751970231	Rename field 'valorCor'
-1275751985560	Rename method 'getValorCor'
-1275752028106	Rename method 'setValorCor'
